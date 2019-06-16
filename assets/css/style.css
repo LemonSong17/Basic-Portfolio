@@ -1,0 +1,76 @@
+.name {
+    padding: 30px;
+    margin: 20px;
+    background-color: #4aaaa5;
+    color: white;
+
+}
+
+.about {
+  float: right;
+}
+
+.portfolio1 {
+    float: right;
+}
+
+.contact {
+    float: right;
+}
+
+header {
+    background: white;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: #ffffff;
+    border-block: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+
+.p1-p2-p3 {
+    font: #777777;
+}
+
+.about-portfolio-contact {
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.portfolio2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+.hangman {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    float: left;
+}
+
+.RPGGame {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    float: right;
+}
+
+.TriviaGame {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    float: left;
+}
+
+.RutgersInfoWidget {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    float: right;
+}
+
+.rps {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    float: left;
+}
